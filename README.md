@@ -10,17 +10,17 @@ Descripción: El chatbot fue desarrollado en Python, para automatizar el proceso
 se lleva a cabo de forma manual.
 
 El bot permite:
-** Registrar solicitudes de vales.
-** Generar códigos únicos de identificación.
-** Registrar rendiciones de gastos.
-** Controlar que las facturas rendidas no se encuentren duplicadas.
-** Calcular diferencias entre importes solicitados y rendidos.
-** Consultar vales pendientes de rendición.
+* Registrar solicitudes de vales.
+* Generar códigos únicos de identificación.
+* Registrar rendiciones de gastos.
+* Controlar que las facturas rendidas no se encuentren duplicadas.
+* Calcular diferencias entre importes solicitados y rendidos.
+* Consultar vales pendientes de rendición.
 
 Tecnologías utilizadas:
-** Código en Python diseñado en VSC
-** Base de datos en archivos CSV
-** Git desktop
-** GitHub
+* Código en Python diseñado en VSC
+* Base de datos en archivos CSV
+* Git desktop
+* GitHub
 
 ______________________________________________________________________________________
